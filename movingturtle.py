@@ -25,6 +25,7 @@ def restart():
 
 turtle.shape('turtle')
 
+
 turtle.onkey(move_right, 'd')
 turtle.onkey(move_left, 'a')
 turtle.onkey(move_up, 'w')
